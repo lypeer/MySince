@@ -16,7 +16,7 @@ import android.widget.TextView;
 public class AddCardFragment extends Fragment {
 
     /**
-     *   缓存根视图的对象
+     *      缓存根视图的对象
      */
     private View mRootView = null;
 
