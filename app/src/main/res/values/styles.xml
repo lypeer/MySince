@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <color name="title">#9E9E9E</color>
+    <color name="body">#9E9E9E</color>
+    <color name="card">#99ffffff</color>
+    <color name="word_main">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="calendar_before">#99757575</color>
+    <color name="calendar_after">#99212121</color>
+    <color name="empty">#00000000</color>
+
+</resources>

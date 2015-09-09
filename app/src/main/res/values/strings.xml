@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySince</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="since_i">SINCE I ...</string>
+    <string name="days">DAYS</string>
+    <string name="select">Select another starting day</string>
+    <string name="save">Save</string>
+</resources>
